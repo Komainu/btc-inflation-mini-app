@@ -1,7 +1,7 @@
 {
-  "name": "BTC-Inflation MiniApp",
-  "description": "Bitcoin × CPI (Inflation rate) visualizer",
-  "url": "https://YOUR-APP-NAME.vercel.app",
-  "icon_url": "https://YOUR-APP-NAME.vercel.app/icon.png",
-  "type": "miniapp"
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE5MzQ5OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2NTNEQ0ZGNTUxMDkwYzExNjU2M2M5Y0ZmNEIxZTc1NDgxNDYxYWYifQ",
+    "payload": "eyJkb21haW4iOiJidGMtaW5mbGF0aW9uLW1pbmktYXBwLnZlcmNlbC5hcHAifQ",
+    "signature": "1QEdXy1BUs9xal1IfcmxsAiwXyvzBWlNJuUrl6pdqbsOrQwSPvgVI3T0ifDk9xCoOcMKWxW/xhP7/0Y+u0nAQBs="
+  }
 }
